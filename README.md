@@ -1,5 +1,7 @@
 # ltts_miniproject
 # Requirements
+User should have knowledge of the game
+The game will be played between two people
 
 # Detail requirements
 ## High Level Requirements:
