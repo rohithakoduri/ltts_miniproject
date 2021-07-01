@@ -16,12 +16,8 @@
 
 |ID | Description | Status (Implemented/Future) |
 | --- | --- | --- |
-| LLR1 | # Cross compatibility
-the| Future |
-| LLR2 | The Admin shall login with his/her unique username and password | Future |
-| LLR3 | The Admin shall see a main-menu with options to choose for | Future |
-| LLR4 | The Admin will be able to add a book into the records by giving the details of that book | Future |
-| LLR5 | The Admin can be able to delete the records of book that has been submitted | Future |
-| LLR6 | The Admin will be able to edit the details of the record of any book | Future |
-| LLR7 | The Admin can search for any book in the records | Future |
-| LLR ; 8 | The Admin will be able to view all the books in the record | Future |
+| LLR1 | Build system using Make | Implemented |
+| LLR2 | Doxygen documentation and commenting the important things | Implementation |
+| LLR3 | C language | Implemented |
+| LLR4 | Application should be user friendly | Implemented |
+| LLR5 | Application must be interactive| Implemented |
