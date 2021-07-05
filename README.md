@@ -1,6 +1,7 @@
 
 ![Activity_rock paper scissor](https://user-images.github
-usercontent.com/73056839/124468229-7adca900-ddb6-11eb-8f97-4d38606c12e1.png)# ltts_miniproject
+usercontent.com/73056839/124468229-7adca900-ddb6-11eb-8f97-4d38606c12e1.png)
+# ltts_miniproject
 # Requirements
 User should have knowledge of the game.
 
